@@ -1,0 +1,41 @@
+student_id,fname,lname,major,course_id
+1,Savorn,Sam,Chemistry,1107
+2,Aaron,Raoofi,Computer Science,1410
+3,Christopher,Felicitas,Math,1301
+4,Jonathan,Thomas,English,2306
+5,Emmanuel,Ogunkoya,History,1305
+6,Luis,Gonzalez,Chemistry,1307
+7,Alexandra,Medina,Computer Science,2302
+8,Deniz,Candas,Math,1505
+9,Cristian,Patino,English,2308
+10,Omezikam,Michaels,History,1306
+11,Sonny,Stuhr,Chemistry,3201
+12,Brian,Case,Computer Science,2410
+13,Jeremy,Johnson,Math,2305
+14,Fabio,Rois,English,2301
+15,Joseph,Shoboiki,History,2315
+16,Daniel,Obiero,Chemistry,3301
+17,Christopher,Kania,Computer Science,3306
+18,Bariscan,Yolcu,Math,2307
+19,Brian,Cobo,English,3305
+20,Tan,Le,History,3307
+21,Paul,Cortes,Chemistry,1107
+22,Danny,Garcia,Computer Science,1410
+23,Jesus,Garcia,Math,1301
+24,Fabian,Hernandez,English,2306
+25,Nicolas,Gamez,History,1305
+26,Carlos,Parlour,Chemistry,1307
+27,Bright,Wadja,Computer Science,3202
+28,Nicole,Britt,Math,1505
+29,Tristen,Stacks,English,2308
+30,Frank,Orechio,History,1306
+31,Manuel,Soto,Chemistry,3201
+32,Fahaad,Saeed,Computer Science,2410
+33,Cesar,Rojas,Math,2305
+34,Nina,Lalonde,English,2301
+35,Daniel,Fabela,History,2315
+36,Deniz,Candas,Chemistry,3301
+37,Alan,Saavedra,Computer Science,3306
+38,Vicent,Hugo,Math,2307
+39,Miguel,Eljuri,English,3305
+40,April,May,History,3307
